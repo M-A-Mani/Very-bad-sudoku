@@ -10,3 +10,5 @@ Lessons that should be taken out of this code:
 8) Avoid writing code that is difficult or impossible even for others to understand. Your code is a nightmare if it is obscure, and it makes debugging difficult.
 9) Do not ever hard code values in the places where they are not supposed to be. Besides that, think scalability in future.
 10) For the creation of games or any other kind of interface with the user, make sure that they can really comprehend the interaction, error messages, and flow.
+
+PS : Don't use Java Script.
